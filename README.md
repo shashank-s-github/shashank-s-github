@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shashank sharma       
-- 👀 I’m interested in web development and football
+- 👀 I’m interested in software development. 
 - 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 lets connect:-
