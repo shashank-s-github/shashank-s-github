@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 lets connect:-
        mail: shashanksgithub@gmail.com
-       twitter: @Anothereader_21
+       twitter: https://twitter.com/Anothereader_21
 
 <!---
 shashank-s-github/shashank-s-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
